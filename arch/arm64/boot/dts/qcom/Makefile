@@ -263,6 +263,7 @@ dtb-$(CONFIG_ARCH_QCOM)	+= sm8150-xiaomi-nabu.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= sm8250-hdk.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= sm8150-oneplus-guacamole.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= sm8150-oneplus-hotdogb.dtb
+dtb-$(CONFIG_ARCH_QCOM)	+= sm8150-oneplus-hotdog.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= sm8250-mtp.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= sm8250-sony-xperia-edo-pdx203.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= sm8250-sony-xperia-edo-pdx206.dtb
